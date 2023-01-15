@@ -1,0 +1,83 @@
+{
+  color: white;
+}
+body {
+    background-repeat: no-repeat;
+    background-image:url(/car13.jpeg);
+    background-size: cover;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .signup-box {
+    width: 360px;
+    height: 520px;
+    margin:auto;
+    background-color:(42, 39, 39);
+    border-radius: 20px;
+    align-self: center
+  }
+  
+  .login-box {
+    width: 360px;
+    height: 280px;
+    margin-top: 90px;
+    margin-left: 430px;
+    border-radius: 3px;
+    background-color: rgb(231, 222, 222);
+    border-radius: 20px;
+  
+
+  }
+  
+  h1 {
+    text-align: center;
+    padding-top: 15px;
+  }
+  
+  h4 {
+    text-align: center;
+  }
+  
+  form {
+    width: 300px;
+    margin-left: 20px;
+  }
+  
+  form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 7px;
+    border: none;
+    color: black;
+    border: 1px solid grey;
+    border-radius: 6px;
+    outline: none;
+  }
+  input[type="button"] {
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color:yellow;
+    color: black;
+    font-size: 18px;
+  }
+  p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+  }
+  .para-2 {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: -10px;
+  }
+  .para-2 a {
+    color: yellow;
+  }

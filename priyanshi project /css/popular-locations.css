@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Box-left{
+    height: 80%;
+    width: 90%;
+    margin: 40px 40px;
+    background-color: whitesmoke;
+    display: flex;
+    border-radius: 20px;
+    flex-direction: row;
+}
+
+.Box-right{
+    height: 80%;
+    width: 90%;
+    margin: 110px 110px 0 110px;
+    background-color: whitesmoke;
+    display: flex;
+    border-radius: 20px;
+    flex-direction: row-reverse ;
+}
+
+.image{
+    margin: 20px;
+    height: 412px;
+    width: 612px;
+    border-radius: 20px;
+}
+
+.text{
+    font-family: 'Lobster', cursive;
+    align-items: center;
+    margin: 50px 0 0 0;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.pop{
+    height: 100px;
+    width: auto;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Lobster', cursive;
+}
